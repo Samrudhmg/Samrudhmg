@@ -40,12 +40,17 @@
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=samrudh-m-gowda&show_icons=true&theme=navy&hide=prs&border_radius=8&hide_rank=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samrudh-m-gowda&layout=compact&theme=navy&border_radius=8" height="150" />
-</div>
+> 💡 Tip: Enable **private contributions** in your GitHub settings to see all commits in stats.
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Samrudhmg&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Samrudhmg&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samrudhmg&layout=compact&theme=tokyonight&hide_border=false" alt="Top Languages" />
+</p>
 
 ---
 
