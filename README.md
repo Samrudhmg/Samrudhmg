@@ -42,7 +42,6 @@
 
 ## 📊 GitHub Stats
 
-> 💡 Tip: Enable **private contributions** in your GitHub settings to see all commits in stats.
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Samrudhmg&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
