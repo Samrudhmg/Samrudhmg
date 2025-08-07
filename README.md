@@ -1,48 +1,68 @@
+<!-- README.md for GitHub Profile -->
 <h1 align="center">Hi 👋, I'm Samrudh M Gowda</h1>
+<h3 align="center" style="color:#0A2647">A passionate Frontend Developer crafting elegant, performant user interfaces.</h3>
+
+---
+
 <p align="center">
-  A passionate Frontend Developer | React & Next.js Enthusiast 🚀
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0A2647&center=true&vCenter=true&width=435&lines=React.js+Developer;Frontend+Engineer;Tailwind+%7C+Bootstrap+%7C+Next.js;Crafting+Clean+and+Modern+UIs" alt="Typing SVG" />
 </p>
 
 ---
 
-## 🌐 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SamrudhMGowda) 
-[![X](https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/Samrudh_gowda_) 
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samrudhmgowda61@gmail.com)
-
----
-
-## 💻 Tech Stack
-
-![HTML5](https://img.shields.io/badge/HTML5-0a192f?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-0a192f?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-0a192f?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-0a192f?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-0a192f?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-0a192f?style=for-the-badge&logo=next.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-0a192f?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-0a192f?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-0a192f?style=for-the-badge&logo=redux&logoColor=white)
-![Context API](https://img.shields.io/badge/Context--API-0a192f?style=for-the-badge&logo=react)
-![React Hook Form](https://img.shields.io/badge/ReactHookForm-0a192f?style=for-the-badge&logo=reacthookform&logoColor=EC5990)
-![Git](https://img.shields.io/badge/Git-0a192f?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-0a192f?style=for-the-badge&logo=github&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-0a192f?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-0a192f?style=for-the-badge&logo=netlify&logoColor=white)
-![Strapi](https://img.shields.io/badge/Strapi-0a192f?style=for-the-badge&logo=strapi&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-0a192f?style=for-the-badge&logo=express&logoColor=white)
+### 🧠 About Me:
+- 💻 Frontend Developer with 1+ year experience in building responsive web apps.
+- 🚀 Passionate about React.js, modern UI, and solving problems with clean code.
+- 🧰 Tools I love: Tailwind CSS, Next.js, Redux, TypeScript.
+- 🌱 Currently building sleek, scalable apps with **Next.js** & **Strapi CMS**.
+- ✨ Always learning, exploring animations, and optimizing UX.
 
 ---
 
-## 📊 GitHub Stats
+### 💼 Tech Stack
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Samrudhmg&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Samrudhmg&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samrudhmg&layout=compact&theme=tokyonight&hide_border=false" alt="Top Languages" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,redux,figma,git,github,vscode" />
 </p>
 
-<!-- Proudly created by Samrudh M Gowda -->
+---
+
+### 📁 Noteworthy Projects
+
+| Project | Description | Stack |
+|--------|-------------|-------|
+| [**Sundown Studios Clone**](https://github.com/samrudh-m-gowda/sundown-studio-clone) | A stunning agency landing page replica. | React, GSAP |
+| [**Ecommerce Web App**](https://github.com/samrudh-m-gowda/ecommerce-product-display) | Dynamic e-commerce product explorer using OpenFoodFacts API. | React, Tailwind |
+| [**Weather Broadcast Web Page**](https://github.com/samrudh-m-gowda/weather-broadcast) | Real-time weather updates UI. | HTML, CSS, JS |
+| [**Task Manager App**](https://github.com/samrudh-m-gowda/task-manager) | Organize tasks by priority, search, and sort. | React, LocalStorage |
+
+> 📌 More projects on my GitHub pinned section!
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=samrudh-m-gowda&show_icons=true&theme=navy&hide=prs&border_radius=8&hide_rank=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samrudh-m-gowda&layout=compact&theme=navy&border_radius=8" height="150" />
+</div>
+
+---
+
+### 🏷️ Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/samrudh-m-gowda/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230A2647.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:samrudhmgowda@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-%230A2647.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/samrudh-m-gowda" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-%230A2647.svg?&style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<h4 align="center" style="color:#0A2647;">Let’s build something cool together!</h4>
