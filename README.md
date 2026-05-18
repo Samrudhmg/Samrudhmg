@@ -17,9 +17,11 @@
 
 ---
 
-<img align="right" alt="Coding" width="350" src="https://user-images.githubusercontent.com/74038190/212749695-0427699e-b3a2-4c25-9d7f-f6b3e2e5b2f1.gif" />
-
 ## 🚀 About Me
+
+<table>
+<tr>
+<td width="60%">
 
 ```typescript
 const samrudh = {
@@ -40,11 +42,21 @@ const samrudh = {
 };
 ```
 
-- 💻 Frontend-first engineer focused on premium UI experiences
-- ⚡ Strong with React ecosystem and modern frontend architecture
-- 🎯 Focused on scalable, maintainable, high-performance applications
-- 🌱 Expanding into full-stack product engineering
-- 🎨 Slight obsession with animations and pixel-perfect interfaces
+- 💻 Frontend-first engineer focused on premium UI experiences  
+- ⚡ Strong with React ecosystem and modern frontend architecture  
+- 🎯 Focused on scalable, maintainable, high-performance applications  
+- 🌱 Expanding into full-stack product engineering  
+- 🎨 Slight obsession with animations and pixel-perfect interfaces  
+
+</td>
+
+<td width="40%" align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212749695-0427699e-b3a2-4c25-9d7f-f6b3e2e5b2f1.gif" width="320"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
