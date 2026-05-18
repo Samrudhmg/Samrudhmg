@@ -7,12 +7,12 @@
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=26&pause=1000&color=B794F4&center=true&vCenter=true&width=700&lines=Frontend+Engineer;Full+Stack+Developer;Crafting+beautiful+web+experiences;React+%7C+Next.js+%7C+TypeScript" />
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=26&pause=1000&color=C084FC&center=true&vCenter=true&width=700&lines=Frontend+Engineer;Full+Stack+Developer;Crafting+beautiful+web+experiences;React+%7C+Next.js+%7C+TypeScript" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Samrudhmg&label=Profile%20Views&color=B794F4&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/Samrudhmg?label=Followers&style=for-the-badge&color=B794F4" />
+  <img src="https://komarev.com/ghpvc/?username=Samrudhmg&label=Profile%20Views&color=C084FC&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/Samrudhmg?label=Followers&style=for-the-badge&color=C084FC" />
 </p>
 
 ---
@@ -63,7 +63,7 @@ const samrudh = {
 # 🛠 Tech Arsenal
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,redux,nodejs,express,postgres,mongodb,docker,git,github,figma,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,redux,nodejs,express,postgres,mongodb,docker,git,github,figma,vscode&theme=dark" />
 </p>
 
 ---
@@ -71,7 +71,7 @@ const samrudh = {
 # 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Samrudhmg&theme=ambient_gradient&ring=B794F4&fire=C4B5FD&currStreakLabel=8B5CF6&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=Samrudhmg&theme=midnight-purple&hide_border=true" />
 </p>
 
 ---
@@ -79,7 +79,7 @@ const samrudh = {
 # 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Samrudhmg&bg_color=ffffff&color=B794F4&line=C4B5FD&point=DDD6FE&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Samrudhmg&bg_color=1E1B2E&color=C084FC&line=D8B4FE&point=E9D5FF&area=true&hide_border=true" />
 </p>
 
 ---
@@ -88,15 +88,15 @@ const samrudh = {
 
 <p align="center">
   <a href="https://www.linkedin.com/in/samrudh-m-gowda/">
-    <img src="https://img.shields.io/badge/LinkedIn-B794F4?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
   <a href="mailto:samrudmgowda@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-C4B5FD?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 
   <a href="https://github.com/Samrudhmg">
-    <img src="https://img.shields.io/badge/GitHub-A78BFA?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-6D28D9?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
