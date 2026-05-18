@@ -7,7 +7,7 @@ Frontend Engineer • Full Stack Developer • UI/UX Obsessed
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=26&pause=1200&color=00C2FF&center=true&vCenter=true&width=700&lines=Crafting+beautiful+web+experiences;Frontend+Engineer+with+clean+code+obsession;React+%7C+Next.js+%7C+TypeScript+Developer;Currently+building+PG+Compass" />
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=26&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Frontend+Engineer;Full+Stack+Developer;Crafting+beautiful+web+experiences;React+%7C+Next.js+%7C+TypeScript" />
 </p>
 
 <p align="center">
@@ -17,7 +17,7 @@ Frontend Engineer • Full Stack Developer • UI/UX Obsessed
 
 ---
 
-<img align="right" alt="coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="coding" width="350" src="https://user-images.githubusercontent.com/74038190/212749695-0427699e-b3a2-4c25-9d7f-f6b3e2e5b2f1.gif" />
 
 ## 🚀 About Me
 
@@ -26,21 +26,20 @@ const samrudh = {
   role: "Frontend Engineer / Full Stack Developer",
   location: "India 🇮🇳",
   focus: "Building performant, beautiful web products",
-  currentProject: "PG Compass — PostgreSQL desktop explorer",
   passions: [
     "Frontend Architecture",
     "Smooth UX",
     "Performance Optimization",
     "Creative UI Engineering"
   ],
-  currentlyLearning: ["Desktop Apps", "System Design", "Backend Scaling"],
+  currentlyLearning: ["System Design", "Backend Scaling", "Advanced Frontend Patterns"],
 };
 ```
 
-- 💻 Frontend-first engineer who loves building premium UI experiences
-- ⚡ Strong with React ecosystem + modern frontend architecture
+- 💻 Frontend-first engineer focused on premium UI experiences
+- ⚡ Strong with React ecosystem and modern frontend architecture
 - 🎯 Focused on scalable, maintainable, high-performance applications
-- 🌱 Exploring full-stack product building
+- 🌱 Expanding into full-stack product engineering
 - 🎨 Slight obsession with animations and pixel-perfect interfaces
 
 ---
@@ -50,51 +49,6 @@ const samrudh = {
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,redux,nodejs,express,postgres,mongodb,docker,git,github,figma,vscode" />
 </p>
-
----
-
-# 🔥 Currently Building
-
-## PG Compass
-
-> Lightweight PostgreSQL desktop explorer inspired by MongoDB Compass.
-
-✨ Features:
-- Fast schema browsing
-- Table inspection
-- Simple query execution
-- Minimal distraction-free UI
-- Built for speed
-
----
-
-# 🚀 Featured Projects
-
-<div align="center">
-
-<table>
-<tr>
-<td width="50%">
-<h3 align="center">Sundown Studios Clone</h3>
-<div align="center">
-<a href="https://github.com/samrudh-m-gowda/sundown-studio-clone">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=samrudh-m-gowda&repo=sundown-studio-clone&theme=tokyonight" />
-</a>
-</div>
-</td>
-
-<td width="50%">
-<h3 align="center">Ecommerce Product Explorer</h3>
-<div align="center">
-<a href="https://github.com/samrudh-m-gowda/ecommerce-product-display">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=samrudh-m-gowda&repo=ecommerce-product-display&theme=tokyonight" />
-</a>
-</div>
-</td>
-</tr>
-</table>
-
-</div>
 
 ---
 
@@ -119,14 +73,6 @@ const samrudh = {
 
 ---
 
-# 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Samrudhmg/Samrudhmg/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
----
-
 # 🌐 Connect With Me
 
 <p align="center">
@@ -146,5 +92,5 @@ const samrudh = {
 ---
 
 <h3 align="center">
-✨ "Great products aren't just functional — they feel effortless."
+✨ Great products aren't just functional — they feel effortless.
 </h3>
