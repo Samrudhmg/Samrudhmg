@@ -71,7 +71,7 @@ const samrudh = {
 # 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Samrudhmg&theme=midnight-purple&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=Samrudhmg&theme=dark&background=1E1B2E&ring=C084FC&fire=D8B4FE&currStreakLabel=E9D5FF&sideNums=C084FC&sideLabels=D8B4FE&dates=FFFFFF&hide_border=true" />
 </p>
 
 ---
