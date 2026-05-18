@@ -17,11 +17,7 @@
 
 ---
 
-<p align="center">
-  <img width="450" src="https://user-images.githubusercontent.com/74038190/212749695-0427699e-b3a2-4c25-9d7f-f6b3e2e5b2f1.gif" />
-</p>
-
----
+<img align="right" alt="Coding" width="350" src="https://user-images.githubusercontent.com/74038190/212749695-0427699e-b3a2-4c25-9d7f-f6b3e2e5b2f1.gif" />
 
 ## 🚀 About Me
 
