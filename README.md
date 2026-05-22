@@ -44,7 +44,7 @@ const samrudh = {
 
 - 💻 Frontend-first engineer focused on premium UI experiences.  
 - ⚡ Strong with React ecosystem and modern frontend architecture.  
-- 🎯 Focused on scalable, maintainable, high-performance applications  
+- 🎯 Focused on scalable, maintainable, high-performance applications.  
 - 🌱 Expanding into full-stack product engineering  
 - 🎨 Slight obsession with animations and pixel-perfect interfaces  
 
