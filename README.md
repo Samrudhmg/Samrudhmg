@@ -46,7 +46,7 @@ const samrudh = {
 - ⚡ Strong with React ecosystem and modern frontend architecture.  
 - 🎯 Focused on scalable, maintainable, high-performance applications.  
 - 🌱 Expanding into full-stack product engineering.  
-- 🎨 Slight obsession with animations and pixel-perfect interfaces  
+- 🎨 Slight obsession with animations and pixel-perfect interfaces.  
 
 </td>
 
