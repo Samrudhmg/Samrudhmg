@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-  Frontend Engineer • Full Stack Developer • UI/UX Obsessed
+  Frontend Engineer • Full Stack Developer • UI/UX Obsessed.
 </h3>
 
 <p align="center">
