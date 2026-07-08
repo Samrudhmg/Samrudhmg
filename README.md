@@ -103,5 +103,5 @@ const samrudh = {
 ---
 
 <h3 align="center">
-✨ Great products aren't just functional — they feel magical.
+✨ Great products aren't just functional — they feel magical
 </h3>
